@@ -1,0 +1,11 @@
+{
+  "name": "Event2",
+  "namespace": "com.github.tillias.spbka.schema.avro",
+  "type": "record",
+  "doc": "Avro Schema for Event",
+  "fields" : [ {
+    "name" : "n1",
+    "type" : "string"
+  }
+  ]
+}
